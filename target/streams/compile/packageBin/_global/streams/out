@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allen/rep/fpis4.2/target/scala-2.13/fpis4-2_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.2/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VarianceTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.2/target/scala-2.13/classes/VarianceTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VarianceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.2/target/scala-2.13/classes/VarianceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VarianceTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.2/target/scala-2.13/classes/VarianceTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

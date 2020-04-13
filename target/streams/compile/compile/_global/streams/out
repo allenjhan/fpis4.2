@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/allen/rep/fpis4.2/src/main/scala/VarianceTest.scala:12:32: identifier expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    avg.map(x => xs.foldLeft(0.)((acc, e) => acc + math.pow(e - x, 2))/x)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
